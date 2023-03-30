@@ -1,0 +1,18 @@
+input{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px,1fr));
+}
+
+button{
+    font-size: 10px;
+    color: black;
+    padding: 8px 15px;
+    font-weight: 600;
+    border: 1px solid pink;
+    border-radius: 10px;
+}
+
+.imc{
+    padding: 1cm;
+    margin-left: 5%;
+}
